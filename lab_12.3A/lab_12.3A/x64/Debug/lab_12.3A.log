@@ -1,0 +1,4 @@
+﻿  lab_12.3A.cpp
+C:\Users\Admin Computer\source\repos\lab_12.3A\lab_12.3A.cpp(187,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin Computer\source\repos\lab_12.3A\lab_12.3A.cpp(252,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab_12.3A.vcxproj -> C:\Users\Admin Computer\source\repos\lab_12.3A\x64\Debug\lab_12.3A.exe
